@@ -8,4 +8,4 @@ Sudhanshu Agarwal
 Web Developer
 
 # Technologies
-Raectjs, javaScript
+Raectjs
