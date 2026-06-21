@@ -5,7 +5,7 @@ git_Learning_Repo first
 Sudhanshu Agarwal
 
 # Profile
-Web Developer
+Developer
 
 # Technologies
 Raectjs
